@@ -1,0 +1,9 @@
+### script per la preparazione all'esame per le prove di carteggio oltre le 12 miglia
+- **requisiti**: un account google e [colab](https://colab.research.google.com/)
+- creare il proprio foglio di lavoro scaricando il [file](https://github.com/gmazzitelli/patente/blob/master/files/domenteOlre12.gsheet) e salvandolo sul proptio google drive
+- crearsi gli accessi di scrittura lettura (ad esempio come descritto [qui](https://medium.com/@alestamm/automating-reports-with-google-sheets-jupyter-notebook-connection-8f9cfa5e8588)
+- condividere il foglio in scrittura con il servizio creato e in lettura a tutti (piu' rapido per usare i dataframe)
+- per gli esercizi e' bene usare le carte ufficili, ma stampati su A3 sono sufficienti i settori della 5D e 42D [qui riportati](https://drive.google.com/drive/folders/1_m-Zc5H9npr0q1Zl4BXpAJV00jlWM8Wc?usp=drive_link)
+
+nel folder ci sono 2 script, [quesiti](https://github.com/gmazzitelli/patente/blob/master/quesiti.ipynb), che sceglie le domande casulamente e fa ripetere 
+gli esercizzi sbagliati (se si vuole fare piu' di una volta tutti gli esercizzi bisogna modificare l'if di accettazione), e uno che far le [statistiche](https://github.com/gmazzitelli/patente/blob/master/statistiche.ipynb)

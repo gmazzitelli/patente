@@ -9,4 +9,5 @@
 
 nel folder ci sono 2 script, [quesiti](https://github.com/gmazzitelli/patente/blob/master/quesiti.ipynb), che sceglie le domande casulamente e fa ripetere 
 gli esercizzi sbagliati (se si vuole fare piu' di una volta tutti gli esercizzi bisogna modificare l'if di accettazione), e uno che far le [statistiche](https://github.com/gmazzitelli/patente/blob/master/statistiche.ipynb)
+
 ![stat](/files/stat.png)

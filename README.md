@@ -11,3 +11,5 @@ nel folder ci sono 2 script, [quesiti](https://github.com/gmazzitelli/patente/bl
 gli esercizzi sbagliati (se si vuole fare piu' di 2 volte tutti gli esercizzi bisogna modificare il codice), e uno che far le [statistiche](https://github.com/gmazzitelli/patente/blob/master/statistiche.ipynb)
 
 ![stat](/files/stat.png)
+
+ringraziamenti a [https://pnautica.it/](https://pnautica.it/) per gli ottimi [video](https://www.youtube.com/@pnautica) di supporto

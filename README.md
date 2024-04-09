@@ -1,5 +1,5 @@
 ### script per la preparazione all'esame per le prove di carteggio oltre le 12 miglia
-- **requisiti**: un account google e [colab](https://colab.research.google.com/)
+- **requisiti**: un account google e un notebook con python, ad esempio su [colab](https://colab.research.google.com/)
 - creare il proprio foglio di lavoro scaricando il [file](https://github.com/gmazzitelli/patente/blob/master/files/domenteOlre12.gsheet) e salvandolo sul proptio google drive
 - crearsi gli accessi di scrittura lettura (ad esempio come descritto [qui](https://medium.com/@alestamm/automating-reports-with-google-sheets-jupyter-notebook-connection-8f9cfa5e8588)
 - condividere il foglio in scrittura con il servizio creato e in lettura a tutti (piu' rapido per usare i dataframe)
